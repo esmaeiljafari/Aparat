@@ -14,19 +14,19 @@ namespace UnitTest.Services
         [TestMethod]
         public void MD5Test()
         {
-           string password = "esmaeil152487639";
+           string password = "test";
              string sb= string.Join("", MD5.Create().ComputeHash(Encoding.ASCII.GetBytes(password)).Select(s => s.ToString("x2")));
 
-            Assert.AreEqual("dcbbc0c1c6bc8e009a8c6c6687da75e8", sb);
+            Assert.AreEqual("098f6bcd4621d373cade4e832627b4f6", sb);
         }
 
         [TestMethod]
         public void SHA1Test()
         {
-            string password = "dcbbc0c1c6bc8e009a8c6c6687da75e8";
+            string password = "test";
             string sb = string.Join("", SHA1.Create().ComputeHash(Encoding.ASCII.GetBytes(password)).Select(s => s.ToString("x2")));
 
-            Assert.AreEqual("1b3597d830edbfdf5562b3054ab7dd1a27477b83", sb);
+            Assert.AreEqual("a94a8fe5ccb19ba61c4c0873d391e987982fbbd3", sb);
         }
     }
 }
