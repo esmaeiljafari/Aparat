@@ -1,0 +1,30 @@
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.csproj.AssemblyReference.cache
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.AssemblyInfoInputs.cache
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.AssemblyInfo.cs
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.csproj.CoreCompileInputs.cache
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\AparatBot\bin\Debug\netstandard2.0\AparatBot.deps.json
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\AparatBot\bin\Debug\netstandard2.0\AparatBot.dll
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\AparatBot\bin\Debug\netstandard2.0\AparatBot.pdb
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.dll
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.pdb
+C:\Users\esmaeil_8_3\Desktop\Project\AparatBot\AparatBot\bin\Debug\netstandard2.0\AparatBot.deps.json
+C:\Users\esmaeil_8_3\Desktop\Project\AparatBot\AparatBot\bin\Debug\netstandard2.0\AparatBot.dll
+C:\Users\esmaeil_8_3\Desktop\Project\AparatBot\AparatBot\bin\Debug\netstandard2.0\AparatBot.pdb
+C:\Users\esmaeil_8_3\Desktop\Project\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.csproj.AssemblyReference.cache
+C:\Users\esmaeil_8_3\Desktop\Project\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esmaeil_8_3\Desktop\Project\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.AssemblyInfoInputs.cache
+C:\Users\esmaeil_8_3\Desktop\Project\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.AssemblyInfo.cs
+C:\Users\esmaeil_8_3\Desktop\Project\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.csproj.CoreCompileInputs.cache
+C:\Users\esmaeil_8_3\Desktop\Project\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.dll
+C:\Users\esmaeil_8_3\Desktop\Project\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.pdb
+D:\My project\C#\library\AparatBot\AparatBot\bin\Debug\netstandard2.0\AparatBot.deps.json
+D:\My project\C#\library\AparatBot\AparatBot\bin\Debug\netstandard2.0\AparatBot.dll
+D:\My project\C#\library\AparatBot\AparatBot\bin\Debug\netstandard2.0\AparatBot.pdb
+D:\My project\C#\library\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.csproj.AssemblyReference.cache
+D:\My project\C#\library\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\My project\C#\library\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.AssemblyInfoInputs.cache
+D:\My project\C#\library\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.AssemblyInfo.cs
+D:\My project\C#\library\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.csproj.CoreCompileInputs.cache
+D:\My project\C#\library\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.dll
+D:\My project\C#\library\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.pdb

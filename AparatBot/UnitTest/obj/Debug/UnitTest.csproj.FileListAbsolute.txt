@@ -1,0 +1,38 @@
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\UnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\UnitTest\bin\Debug\AparatBot.dll
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\UnitTest\bin\Debug\AparatBot.pdb
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\esmaeil_8_3\Desktop\tamrin\AparatBot\UnitTest\obj\Debug\UnitTest.pdb
+D:\My project\C#\library\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\My project\C#\library\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\My project\C#\library\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\My project\C#\library\AparatBot\UnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\My project\C#\library\AparatBot\UnitTest\bin\Debug\UnitTest.dll.config
+D:\My project\C#\library\AparatBot\UnitTest\bin\Debug\UnitTest.dll
+D:\My project\C#\library\AparatBot\UnitTest\bin\Debug\UnitTest.pdb
+D:\My project\C#\library\AparatBot\UnitTest\bin\Debug\AparatBot.dll
+D:\My project\C#\library\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\My project\C#\library\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\My project\C#\library\AparatBot\UnitTest\bin\Debug\Newtonsoft.Json.dll
+D:\My project\C#\library\AparatBot\UnitTest\bin\Debug\AparatBot.pdb
+D:\My project\C#\library\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\My project\C#\library\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\My project\C#\library\AparatBot\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+D:\My project\C#\library\AparatBot\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+D:\My project\C#\library\AparatBot\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+D:\My project\C#\library\AparatBot\UnitTest\obj\Debug\UnitTest.dll
+D:\My project\C#\library\AparatBot\UnitTest\obj\Debug\UnitTest.pdb
