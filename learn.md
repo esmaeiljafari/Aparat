@@ -1,4 +1,4 @@
-#How to use the bot?
+# How to use the bot?
 
 To use the robot services, you can use the following code:
 
@@ -13,11 +13,11 @@ Services.AddScoped<AparatBot.api.IApiAparat,AparatBot.api.ApiAparat>();
 
 
 
-#User
-####With this [property] you can work with users information:
+# User
+#### With this [property] you can work with users information:
 
-###GetMediaByUserName
-####By entering the desired username, it gives information about that person
+### GetMediaByUserName
+#### By entering the desired username, it gives information about that person
 ``` c#
 
  var result=await api.UserProcessor.GetProfile("ali");
@@ -28,18 +28,18 @@ Services.AddScoped<AparatBot.api.IApiAparat,AparatBot.api.ApiAparat>();
 
 
 
-##Media
+## Media
 
-####With this [property] you can work with media :
+#### With this [property] you can work with media :
 
-###GetMediaByUserName
-####To get a user's media and its count
+### GetMediaByUserName
+#### To get a user's media and its count
 ``` c#
 var result=await api.MediaProcessor.GetMediaByUserName("gym",1);
 ````
 
-###GetMediaByVideohash
-####By entering the desired media token, it will give you information about that item
+### GetMediaByVideohash
+#### By entering the desired media token, it will give you information about that item
 ``` c#
 //https://www.aparat.com/v/y7MBA
 var result=await api.MediaProcessor.GetMediaByVideohash("y7MBA");
