@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wmKT5n9aLQc1KhQFe/LWru4Ohe0Md3eojfHAmQi0OpI5zzpCMi0jidvdmWi/7djw+Lvz2047rSYiJa6io9IgAg==",
+  "dgSpecHash": "IpafEY5tgwuZZMsHuqJwGViNdZSId3imuznSow+CSpQBG+NvcLOPw6+R2OZQcS5pa8FKzOq3y4mta6PcIY189g==",
   "success": true,
-  "projectFilePath": "D:\\My project\\C#\\library\\AparatBot\\AparatBot\\AparatBot.csproj",
+  "projectFilePath": "D:\\project\\Project\\library\\Aparat\\AparatBot\\AparatBot\\AparatBot.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\esmaeil_8_3\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\esmaeil_8_3\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\esmaeil_8_3\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\e3mae\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\e3mae\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\e3mae\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

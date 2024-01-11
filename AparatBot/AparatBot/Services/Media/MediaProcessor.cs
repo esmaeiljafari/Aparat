@@ -6,6 +6,7 @@ using Newtonsoft.Json;
 using AparatBot.Services.Media;
 using System.Security.Cryptography;
 using System.Collections.Generic;
+using System.Drawing;
 
 namespace AparatBot.Services.Media
 {
@@ -53,6 +54,27 @@ namespace AparatBot.Services.Media
             {
                 model.Success = false;
                 model.Error = "You videohash is not valid";
+            }
+            return model;
+        }
+
+        public async Task<ResultAparatModel<List<VideoByTag>>> GetMediaByTags(string tag)
+        {
+            string url = $"https://www.aparat.com/etc/api/videobytag/text/{tag}";
+            var rootjson = await _sendRequest.Invoke(url);
+            var model = new ResultAparatModel<List<DTOs.VideoByTag>>();
+
+
+            if (rootjson.videobytag != null)
+            {
+                model.Success = true;
+                model.Error = "No Error";
+                model.Value = rootjson.videobytag;
+            }
+            else
+            {
+                model.Success = false;
+                model.Error = "Your username is not valid";
             }
             return model;
         }

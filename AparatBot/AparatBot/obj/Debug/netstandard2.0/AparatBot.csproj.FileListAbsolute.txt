@@ -28,3 +28,13 @@ D:\My project\C#\library\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.
 D:\My project\C#\library\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.csproj.CoreCompileInputs.cache
 D:\My project\C#\library\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.dll
 D:\My project\C#\library\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.pdb
+D:\project\Project\library\Aparat\AparatBot\AparatBot\bin\Debug\netstandard2.0\AparatBot.deps.json
+D:\project\Project\library\Aparat\AparatBot\AparatBot\bin\Debug\netstandard2.0\AparatBot.dll
+D:\project\Project\library\Aparat\AparatBot\AparatBot\bin\Debug\netstandard2.0\AparatBot.pdb
+D:\project\Project\library\Aparat\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.csproj.AssemblyReference.cache
+D:\project\Project\library\Aparat\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Project\library\Aparat\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.AssemblyInfoInputs.cache
+D:\project\Project\library\Aparat\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.AssemblyInfo.cs
+D:\project\Project\library\Aparat\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.csproj.CoreCompileInputs.cache
+D:\project\Project\library\Aparat\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.dll
+D:\project\Project\library\Aparat\AparatBot\AparatBot\obj\Debug\netstandard2.0\AparatBot.pdb

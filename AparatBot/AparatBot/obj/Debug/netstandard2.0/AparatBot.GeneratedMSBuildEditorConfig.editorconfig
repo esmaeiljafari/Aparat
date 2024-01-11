@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = AparatBot
-build_property.ProjectDir = D:\My project\C#\library\AparatBot\AparatBot\
+build_property.ProjectDir = D:\project\Project\library\Aparat\AparatBot\AparatBot\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

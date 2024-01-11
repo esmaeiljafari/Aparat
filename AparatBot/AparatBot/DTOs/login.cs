@@ -25,4 +25,5 @@ namespace AparatBot.DTOs
         public string pic_b { get; set; }
 
     }
+
 }

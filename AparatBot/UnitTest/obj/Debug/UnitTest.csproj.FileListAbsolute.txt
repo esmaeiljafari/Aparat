@@ -36,3 +36,22 @@ D:\My project\C#\library\AparatBot\UnitTest\obj\Debug\UnitTest.csproj.CoreCompil
 D:\My project\C#\library\AparatBot\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
 D:\My project\C#\library\AparatBot\UnitTest\obj\Debug\UnitTest.dll
 D:\My project\C#\library\AparatBot\UnitTest\obj\Debug\UnitTest.pdb
+D:\project\Project\library\Aparat\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\project\Project\library\Aparat\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\project\Project\library\Aparat\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\project\Project\library\Aparat\AparatBot\UnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\project\Project\library\Aparat\AparatBot\UnitTest\bin\Debug\UnitTest.dll.config
+D:\project\Project\library\Aparat\AparatBot\UnitTest\bin\Debug\UnitTest.dll
+D:\project\Project\library\Aparat\AparatBot\UnitTest\bin\Debug\UnitTest.pdb
+D:\project\Project\library\Aparat\AparatBot\UnitTest\bin\Debug\AparatBot.dll
+D:\project\Project\library\Aparat\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\project\Project\library\Aparat\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\project\Project\library\Aparat\AparatBot\UnitTest\bin\Debug\Newtonsoft.Json.dll
+D:\project\Project\library\Aparat\AparatBot\UnitTest\bin\Debug\AparatBot.pdb
+D:\project\Project\library\Aparat\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\project\Project\library\Aparat\AparatBot\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\project\Project\library\Aparat\AparatBot\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+D:\project\Project\library\Aparat\AparatBot\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+D:\project\Project\library\Aparat\AparatBot\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+D:\project\Project\library\Aparat\AparatBot\UnitTest\obj\Debug\UnitTest.dll
+D:\project\Project\library\Aparat\AparatBot\UnitTest\obj\Debug\UnitTest.pdb

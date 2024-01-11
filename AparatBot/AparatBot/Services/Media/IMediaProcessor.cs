@@ -8,6 +8,7 @@ namespace AparatBot.Services.Media
     {
         Task<ResultAparatModel<List<DTOs.Media>>> GetMediaByUserName(string username, int count = 0);
         Task<ResultAparatModel<MediaExact>> GetMediaByVideohash(string videohash);
+        Task<ResultAparatModel<List<VideoByTag>>> GetMediaByTags(string tag);
 
     }
 }
